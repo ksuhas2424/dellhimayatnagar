@@ -53,7 +53,7 @@ export default function App() {
       <div className="topbar">
         <div className="shell topbar-inner">
           <span><Icon name="pin" />3-6-369/1, Street Number 1, Gagan Mahal, G1&101, Himayatnagar, Hyderabad — 500029</span>
-          <span><Icon name="phone" />+91 8143917450&nbsp;&nbsp;|&nbsp;&nbsp;Mon–Sat: 10AM – 8PM</span>
+          <span><Icon name="phone" />+91 8143917450&nbsp;&nbsp;|&nbsp;&nbsp;Mon–Sat: 11AM – 8PM</span>
         </div>
       </div>
 
@@ -180,8 +180,8 @@ export default function App() {
           <div className="contact-grid">
             <div className="contact-card">
               <div><h3>Store Address</h3><p>3-6-369/1, Street Number 1, Gagan Mahal, G1&amp;101<br />Himayatnagar, Hyderabad<br />Telangana — 500029</p></div>
-              <div><h3>Business Hours</h3><p className="hours"><span>Monday – Friday</span><b>10:00 AM – 8:00 PM</b><span>Saturday</span><b>10:00 AM – 7:00 PM</b><span>Sunday</span><b className="closed">Closed</b></p></div>
-              <div><h3>Phone & Email</h3><p><a href="tel:8143917450">+91 8143917450</a><br /><a href="mailto:dellhimayatnagar@gmail.com">dellhimayatnagar@gmail.com</a></p></div>
+              <div><h3>Business Hours</h3><p className="hours"><span>Monday – Friday</span><b>11:00 AM – 8:00 PM</b><span>Saturday</span><b>11:00 AM – 7:00 PM</b><span>Sunday</span><b className="closed">Closed</b></p></div>
+              <div><h3>Phone & Email</h3><p><a href="tel:8143917450">+91 8143917450</a><br /><a href="mailto:dellexclusivestore7@gmail.com">dellexclusivestore7@gmail.com</a></p></div>
 
             </div>
           </div>
